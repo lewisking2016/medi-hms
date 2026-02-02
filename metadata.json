@@ -1,0 +1,7 @@
+{
+  "name": "MediSync HMS",
+  "description": "A comprehensive Hospital Management System featuring patient care, inventory tracking, staff scheduling, ward management, and AI-powered medical insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
